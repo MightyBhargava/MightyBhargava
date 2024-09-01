@@ -26,9 +26,9 @@
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/bhargava-ravula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargava ravula" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ravulavenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravula venkat" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Bhargava Ravula" height="30" width="40" /> </a>
+  <a href="https://www.linkedin.com/in/bhargava-ravula-32132a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargava ravula" height="70" width="70" /></a>
+  <a href="https://www.leetcode.com/ravulavenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravula venkat" height="70" width="70" /></a>
+  <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Bhargava Ravula" height="70" width="70" /> </a>
 </p>
 
 
