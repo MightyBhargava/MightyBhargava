@@ -88,7 +88,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mightybhargava" alt="mightybhargava" /></a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
@@ -98,5 +98,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mightybhargava&show_icons=true&locale=en" alt="mightybhargava" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightybhargava&" alt="mightybhargava" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightybhargava&" alt="mightybhargava" /></p>
 
