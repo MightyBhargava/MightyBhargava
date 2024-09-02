@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <span class="rotating-text" color="orange">Freelancer | ux & ui designer | Software developer </span>
+  <img src="https://raw.githubusercontent.com/MightyBhargava/svg-hosting/main/rotating-text.svg" alt="Rotating Text">
 </h3>
 
 <p align="left">
