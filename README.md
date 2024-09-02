@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="waving hand" width="70" height="70" /> , I'm Bhargava Dileep R
+  Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="waving hand" width="40" height="40" /> , I'm Bhargava Dileep R
 </h1>
 
 <h3 align="center">
@@ -26,9 +26,9 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhargava-ravula-32132a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargava ravula" height="70" width="70" /></a>
-  <a href="https://www.leetcode.com/ravulavenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravula venkat" height="70" width="70" /></a>
-  <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Bhargava Ravula" height="70" width="70" /> </a>
+  <a href="https://www.linkedin.com/in/bhargava-ravula-32132a314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargava ravula" height="30" width="30" /></a>
+  <a href="https://www.leetcode.com/ravulavenkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ravula venkat" height="30" width="30" /></a>
+  <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Bhargava Ravula" height="30" width="30" /> </a>
 </p>
 
 
@@ -36,12 +36,12 @@
 
 <table style="width:100%;">
   <tr>
-    <th style="width:33%; text-align:center;">Frontend</th>
-    <th style="width:33%; text-align:center;">Backend</th>
-    <th style="width:33%; text-align:center;">Databases</th>
+    <th style="width:100%; text-align:center;">Frontend</th>
+    <th style="width:100%; text-align:center;">Backend</th>
+    <th style="width:100%; text-align:center;">Databases</th>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 40px;">
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
       </a>
@@ -55,7 +55,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 40px;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </a>
@@ -69,7 +69,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 40px;">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
       </a>
