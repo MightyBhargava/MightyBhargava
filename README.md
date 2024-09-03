@@ -34,14 +34,14 @@
 
 ## Languages and Tools:
 
-<table style="width:100%;">
+<table style="width:500%; border-collapse:collapse;">
   <tr>
-    <th style="width:100%; text-align:center;">Frontend</th>
-    <th style="width:100%; text-align:center;">Backend</th>
-    <th style="width:100%; text-align:center;">Databases</th>
+    <th style="text-align:center; padding: 500px;">Frontend</th>
+    <th style="text-align:center; padding: 500px;">Backend</th>
+    <th style="text-align:center; padding: 500px;">Databases</th>
   </tr>
   <tr>
-    <td align="center" style="padding: 40px;">
+    <td align="center" style="padding: 70px;">
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
       </a>
@@ -55,7 +55,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" style="padding: 40px;">
+    <td align="center" style="padding: 70px;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </a>
@@ -69,7 +69,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" style="padding: 40px;">
+    <td align="center" style="padding: 70px;">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
       </a>
@@ -82,6 +82,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 <p align="left">
