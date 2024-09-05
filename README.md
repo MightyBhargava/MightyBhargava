@@ -86,7 +86,7 @@
 
 
 
-<p align="left">
+<p align="left" style="size: 70px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mightybhargava" alt="mightybhargava" /></a>
 </p>
 
