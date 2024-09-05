@@ -102,7 +102,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightybhargava&" alt="mightybhargava" /></p>
 
-<p align="center" style="font-size: 24px; color: skyblue; border: 2px solid skyblue; padding: 10px; border-radius: 10px; display: inline-block;">
-  Thank you for watching this page!
-</p>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/MightyBhargava/svg-hosting/main/thank.svg" alt="Rotating Text">
+</h3>
 
