@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="waving hand" width="40" height="40" /> , I'm Bhargava Dileep R
+  Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="waving hand" width="50" height="50" /> , I'm Bhargava Dileep R
 </h1>
 
 <h3 align="center">
