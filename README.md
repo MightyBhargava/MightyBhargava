@@ -84,11 +84,13 @@
 </table>
 
 
-
-
 <p align="left" style="size: 70px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mightybhargava" alt="mightybhargava" /></a>
 </p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Rotating Text">
+</h3>
 
 <p align="right">
   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
