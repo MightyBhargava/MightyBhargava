@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=mightybhargava&label=Profile%20views&color=0e75b6&style=flat" alt="mightybhargava" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 - 🔭 I’m currently working on **web development projects**
 
