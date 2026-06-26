@@ -12,11 +12,11 @@
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
-- 🔭 I’m currently working on **web development projects**
+- 🔭 I’m currently working on **Cyber security projects**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Java**
+- 🌱 I’m currently learning **Python, Linux Administrator, SIEM, TPRM, ServiceNow**
 
-- 👯 I’m looking to collaborate on **Microsoft Technologies**
+- 👯 I’m looking to collaborate on **Cybersecurity Projects**
 
 - 📫 How to reach me **ravulavenkat759@gmail.com**
 
